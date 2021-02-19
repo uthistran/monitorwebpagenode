@@ -1,0 +1,9 @@
+{
+    "port" : 8004,
+    "loglevel" : "info" ,
+    "emailjs" :{
+        "serviceid" : "Your_Service_ID",
+        "templateid" : "Your_Template_ID" ,
+        "userid" : "Your_User_ID"
+    }
+}

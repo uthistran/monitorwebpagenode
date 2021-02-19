@@ -1,0 +1,22 @@
+{
+  "name": "webpage-monitor",
+  "version": "1.0.0",
+  "description": "Monitors the Change in Web page and sends/logs data whenever there is a change",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uthis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "checksum": "^0.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "log4js": "^6.3.0",
+    "node-datetime": "^2.1.2",
+    "node-fetch": "^2.6.1"
+  }
+}
